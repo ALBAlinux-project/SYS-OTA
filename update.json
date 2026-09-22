@@ -1,0 +1,14 @@
+{
+  "response": [
+    {
+      "datetime": 1749168000, 
+      "filename": "lineage-19.1-20250606-UNOFFICIAL-arm64_bvN.zip",
+      "id": "（ここにZIPファイルのSHA-256ハッシュ値を入力）",
+      "romtype": "unofficial",
+      "size": 858993459,
+      "url": "https://github.com<あなたのユーザー名>/ota-server/releases/download/v1.0.0/lineage-19.1-20250606-UNOFFICIAL-arm64_bvN.zip",
+      "version": "19.1"
+    }
+  ]
+}
+
