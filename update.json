@@ -6,7 +6,7 @@
       "id": "（ここにZIPファイルのSHA-256ハッシュ値を入力）",
       "romtype": "unofficial",
       "size": 858993459,
-      "url": "https://github.com<あなたのユーザー名>/ota-server/releases/download/v1.0.0/lineage-19.1-20250606-UNOFFICIAL-arm64_bvN.zip",
+      "url": "https://albalinux-project.github.io/SYS-OTA/release/v19.1/lineage-19.1-20250606-UNOFFICIAL-arm64_bvN.zip",
       "version": "19.1"
     }
   ]
